@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2927"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="eye.svg">
+  <defs
+     id="defs2921" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="284.28571"
+     inkscape:cy="512.87284"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer14"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="circle1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#2b0000;stroke:#0060c4;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2929"
+       cx="104.62112"
+       cy="136.52769"
+       r="92" />
+    <ellipse
+       style="fill:#ffffff;stroke:#0060c4;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2932"
+       cx="102.80953"
+       cy="136.4494"
+       rx="50"
+       ry="92" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="circle3">
+    <ellipse
+       style="fill:#280b0b;stroke:#0060c4;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3496"
+       cx="101.42878"
+       cy="128.69029"
+       rx="39.956795"
+       ry="37.284096" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="circle2"
+     sodipodi:insensitive="true" />
+</svg>
